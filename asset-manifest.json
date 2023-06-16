@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Altosentosa-Web/static/css/main.d273a90f.css",
-    "main.js": "/Altosentosa-Web/static/js/main.42f89756.js",
+    "main.css": "/Altosentosa-Web/static/css/main.7036674b.css",
+    "main.js": "/Altosentosa-Web/static/js/main.f71cde46.js",
     "static/media/karyawan6.jpg": "/Altosentosa-Web/static/media/karyawan6.d5f851cae3ce8a707aaa.jpg",
     "static/media/karyawan5.jpg": "/Altosentosa-Web/static/media/karyawan5.4ed3ac8167c61b7c2635.jpg",
     "static/media/slide-1.png": "/Altosentosa-Web/static/media/slide-1.241b80d6c077e9252bbc.png",
@@ -37,11 +37,11 @@
     "static/media/clock.svg": "/Altosentosa-Web/static/media/clock.fb6a18c5f2e25b46806bf2222c6d0bba.svg",
     "static/media/glove.svg": "/Altosentosa-Web/static/media/glove.56c7b40a45c173464862f982ddad99fd.svg",
     "static/media/find.svg": "/Altosentosa-Web/static/media/find.e4300fc74a44e502d79416a9536685e1.svg",
-    "main.d273a90f.css.map": "/Altosentosa-Web/static/css/main.d273a90f.css.map",
-    "main.42f89756.js.map": "/Altosentosa-Web/static/js/main.42f89756.js.map"
+    "main.7036674b.css.map": "/Altosentosa-Web/static/css/main.7036674b.css.map",
+    "main.f71cde46.js.map": "/Altosentosa-Web/static/js/main.f71cde46.js.map"
   },
   "entrypoints": [
-    "static/css/main.d273a90f.css",
-    "static/js/main.42f89756.js"
+    "static/css/main.7036674b.css",
+    "static/js/main.f71cde46.js"
   ]
 }
