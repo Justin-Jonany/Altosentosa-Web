@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 4rem;
+    background: white;
+    z-index: 2;
+}
+
+.logo {
+    width: 80px;
+}
+
+.pages {
+    position: absolute;
+    list-style: none;
+    right: 23%;
+    display: flex;
+    gap: 2rem;
+    padding-right: 2rem;
+    font-size: 22px;
+    font-family: 'Poppins';
+    font-weight: bolder;
+    color: black;
+
+}
+
+
+.contactUs {
+    border-radius: 25px;
+    background: #253B80;
+    padding-top: 25px;
+    width: 250px;
+    height: 30px;
+    position: relative;
+    top: 10.5px;
+}
+
+.link-contactus-text {
+    position: relative;
+    top: -13.5px;
+    font-size: 22px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    color: white;
+}
+
+.link-contactus-text:hover {
+    cursor: pointer;
+    color: rgb(185, 195, 225, 0.5);
+}
+
+.link-navbar {
+    text-decoration: none;
+}
+.link-navbar-text {
+    color: black;
+}
+
+.link-navbar-text:hover {
+    cursor: pointer;
+    color: #009cde;
+}
+
+.link-navbar:visited {
+    color: #253B80;
+}
+
+.services-drop-down {
+    display: none;
+    list-style: none;
+    width: 30%;
+    text-align: left;
+    position: absolute;
+    left: inherit;
+    top: 35px;
+    background-color: #253B80;
+    border-radius: 7px;
+    padding: 5px 25px;
+    padding-bottom: 8px;
+    margin: auto;
+    z-index: 2;
+}
+.link-dropdown-text {
+    color: #B9C3E1;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.link-dropdown-text:hover {
+    color: white;
+}
+.link-dropdown-text {
+    color: #B9C3E1;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.services-drop-down>.border-bottom-li {
+    padding: 5px 0;
+    border-bottom: 0.5px solid rgb(185, 195, 225, 0.5);
+}
+
+
+
+
+.pages>li:hover ul {
+    display: block;
+}
+

@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+.intro {
+    display: grid;
+    gap: 50px;
+    padding-bottom: 50px;
+}
+
+.slider {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+
+}
+
+.image {
+    width: 1000px;
+    height: 600px;
+    border-radius: 10px;
+}
+
+.right-arrow {
+    position: absolute;
+    top: 50%;
+    right: 92px;
+    font-size: 3rem;
+    color: #000;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+}
+
+.left-arrow {
+    position: absolute;
+    top: 50%;
+    left: 92px;
+    font-size: 3rem;
+    color: #000;
+    z-index: 10;
+    cursor: pointer;
+    user-select: none;
+}
+
+.slide {
+    opacity: 0;
+    transition-duration: 1s ease;
+}
+
+.slide.active {
+    opacity: 1;
+    transition-duration: 1s;
+    transform: scale(1.08);
+    z-index: -1;
+
+}
+
+/* content */
+
+.intro-container {
+    margin: auto;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    row-gap: 30px;
+}
+
+.intro-container>div>img {
+    max-width: 100%;
+    width: 500px;
+}
+
+.image1-intro, .image2-intro {
+    text-align: right;
+}
+
+.text-intro {
+    text-align: left;
+    position: relative;
+    padding-left: 30px;
+    padding-right: 200px;
+    grid-area: 1 / 2 / 3 / 3;
+    margin: auto 0;
+
+}
+
+.title-intro {
+    font-size: 45px;
+    font-weight: bolder;
+    /* font-family: 'Poppins', sans-serif; */
+}
+
+.content-intro {
+    /* overflow: hidden; */
+    font-size: 18px;
+    font-family: 'Poppins';
+    white-space: initial;
+}
+
+.repair-form {
+    margin: auto;
+    background-color: #253B80;
+    border: 5px solid #6AC0E6;
+    width: 80%;
+    border-radius: 15px;
+    gap: 50px;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    justify-content: space-between;
+    align-items: center;
+
+
+
+}
+
+.call-to-action {
+    font-size: 30px;
+    padding: 30px 50px;
+    font-weight: 600;
+    color: white;
+    font-family: 'Poppins';
+}
+.repair-form-intro {
+    font-size: 30px;
+    font-weight: 600;
+    color: #253B80;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    top: 15%;
+    
+
+}
+
+.repair-form-square {
+    background-color: white;
+    border-radius: 15px;
+    height: 60%;
+    width: 80%;
+    
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.repair-form-square:hover {
+    cursor: pointer;
+}

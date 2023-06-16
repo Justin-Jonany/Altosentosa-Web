@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+
+
+.contactus-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px 160px;
+    padding: 0 120px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+
+.contact-title {
+    /* font-family: 'Poppins'; */
+    font-weight: bolder;
+    font-size: 70px;
+    grid-column: 1 / 4;
+    text-align: left;
+}
+
+.contactus-container>div {
+    align-items: left;  
+}
+
+.contactus-detail-container {
+    display: grid;
+    grid-template-rows: 0.8fr 0.6fr 2fr;
+    /* row-gap: 3%; */
+    text-align: left;
+    
+}
+
+.contactus-detail-container>img {
+    max-width: 68px;
+    padding-left: 2%;
+    filter: invert(56%) sepia(35%) saturate(6505%) hue-rotate(184deg) brightness(98%) contrast(94%);
+
+
+}
+.contactus-detail-title {
+   font-family: 'Poppins';
+   color: black;
+   font-weight: bold;
+   font-size: 27px;
+    
+}
+.contactus-content {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    overflow:initial;
+    white-space: initial;
+}
+
+.contactus-email-text {
+    text-decoration: none;
+    color: black;
+}
