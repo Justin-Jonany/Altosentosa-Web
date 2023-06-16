@@ -18,18 +18,18 @@ function App() {
   return (
     // <Home />
     <Routes>
-      <Route path='/' element={<Layout />}>
+      <Route path='/Altosentosa-Web/' element={<Layout />}>
         <Route index element={<Home />} />
-        <Route exact path="/company-profile" element={<Companyprofile />} />
-        <Route exact path="/career" element={<Career />} />
-        <Route exact path="/blog" element={<Blog />} />
-        <Route exact path="/repairform" element={<Repairform />} />
-        <Route exact path="/jasarepair" element={<Jasarepair />} />
-        <Route exact path="/preventive-maintenance" element={<Preventive />} />
-        <Route exact path="/produk" element={<Produk />} />
-        <Route exact path="/projek" element={<Projek />} />
-        <Route exact path="/whyus" element={<Whyus />} />
-        <Route exact path="/contactus" element={<Contactus />} />
+        <Route exact path="/Altosentosa-Web/company-profile" element={<Companyprofile />} />
+        <Route exact path="/Altosentosa-Web/career" element={<Career />} />
+        <Route exact path="/Altosentosa-Web/blog" element={<Blog />} />
+        <Route exact path="/Altosentosa-Web/repairform" element={<Repairform />} />
+        <Route exact path="/Altosentosa-Web/jasarepair" element={<Jasarepair />} />
+        <Route exact path="/Altosentosa-Web/preventive-maintenance" element={<Preventive />} />
+        <Route exact path="/Altosentosa-Web/produk" element={<Produk />} />
+        <Route exact path="/Altosentosa-Web/projek" element={<Projek />} />
+        <Route exact path="/Altosentosa-Web/whyus" element={<Whyus />} />
+        <Route exact path="/Altosentosa-Web/contactus" element={<Contactus />} />
       </Route>
 
     </Routes>
