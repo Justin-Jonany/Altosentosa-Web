@@ -8,7 +8,7 @@ import employees2 from '../../../Assets/karyawan6.jpg';
 function Intro() {
     return (
         <div className="intro">
-            <ImageSlider slides={SliderData} />
+            <ImageSlider slides={SliderData}> </ImageSlider>
 
             {/* content */}
             <div className="intro-container">
