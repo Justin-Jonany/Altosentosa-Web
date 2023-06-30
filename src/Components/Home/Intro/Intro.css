@@ -86,11 +86,9 @@
 .title-intro {
     font-size: 45px;
     font-weight: bolder;
-    /* font-family: 'Poppins', sans-serif; */
 }
 
 .content-intro {
-    /* overflow: hidden; */
     font-size: 18px;
     font-family: 'Poppins';
     white-space: initial;

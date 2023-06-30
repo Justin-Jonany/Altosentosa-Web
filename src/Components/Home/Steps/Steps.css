@@ -11,12 +11,13 @@
 }
 
 .title-text-steps {
-    border-left: 11px solid #253B80;
+    border-left: 10px solid #253B80;
+    /* border-radius: 50%; */
     padding-left: 2%;
     text-align: left;
     margin: auto 0;
     font-weight: bolder;
-    font-size: 60px;
+    font-size: 50px;
 }
 .step-3 {
     background: #ACCEE3;

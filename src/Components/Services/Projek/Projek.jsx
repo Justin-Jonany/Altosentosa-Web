@@ -2,6 +2,9 @@ import React from 'react'
 import introImage from '../../../Assets/karyawan5.jpg'
 import './Projek.css'
 import Enquiryform from './Enquiryform'
+import PastProject from './PastProject'
+// import PastProjects from './PastProjects'
+
 function Projek() {
   return (
     <div className="Projek">
@@ -15,7 +18,8 @@ function Projek() {
           Baca lebih lanjut untuk melihat proyek yang sudah kami lakukan.
         </div>
       </div>
-
+      <PastProject />
+      {/* <PastProjects /> */}
       <Enquiryform/>
 
     </div>
