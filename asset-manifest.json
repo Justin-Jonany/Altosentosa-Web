@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Altosentosa-Web/static/css/main.7036674b.css",
-    "main.js": "/Altosentosa-Web/static/js/main.f71cde46.js",
+    "main.css": "/Altosentosa-Web/static/css/main.4a1dad4d.css",
+    "main.js": "/Altosentosa-Web/static/js/main.70dd1c58.js",
     "static/media/karyawan6.jpg": "/Altosentosa-Web/static/media/karyawan6.d5f851cae3ce8a707aaa.jpg",
     "static/media/karyawan5.jpg": "/Altosentosa-Web/static/media/karyawan5.4ed3ac8167c61b7c2635.jpg",
     "static/media/slide-1.png": "/Altosentosa-Web/static/media/slide-1.241b80d6c077e9252bbc.png",
     "static/media/slide-1ver2.png": "/Altosentosa-Web/static/media/slide-1ver2.52a8bb1e6e5d70582e26.png",
+    "static/media/karyawan7.jpg": "/Altosentosa-Web/static/media/karyawan7.8a3b65e599c8852edfcb.jpg",
     "static/media/ourblog1.jpeg": "/Altosentosa-Web/static/media/ourblog1.75b8ab4c440698727a93.jpeg",
     "static/media/ourblog3.jpeg": "/Altosentosa-Web/static/media/ourblog3.13cddba570a7a4dcaead.jpeg",
     "static/media/ourblog2.jpeg": "/Altosentosa-Web/static/media/ourblog2.5b31681602ac0f67e7f7.jpeg",
@@ -16,8 +17,10 @@
     "static/media/control-techniques.svg": "/Altosentosa-Web/static/media/control-techniques.6215e3c0e2b898a5c69f0748a413206f.svg",
     "static/media/fuji-electric-2.svg": "/Altosentosa-Web/static/media/fuji-electric-2.01833ef6346948b6f6f09cc29f5b9927.svg",
     "static/media/danfoss-3.svg": "/Altosentosa-Web/static/media/danfoss-3.fc0a887c578d43699d0c6666262ac4d8.svg",
+    "static/media/convo.svg": "/Altosentosa-Web/static/media/convo.b7e62ccd161bbee913ee0404d8e0d37a.svg",
     "static/media/panasonic.svg": "/Altosentosa-Web/static/media/panasonic.ed34540512a024d0a69a95fea21fed09.svg",
     "static/media/gear.svg": "/Altosentosa-Web/static/media/gear.1964539986cd6aea3baee0f32a61923e.svg",
+    "static/media/award.svg": "/Altosentosa-Web/static/media/award.4940758b4a2b8432d2ea57522424bf63.svg",
     "static/media/yaskawa.svg": "/Altosentosa-Web/static/media/yaskawa.0779fe75f08eef2b95a0af589789ecaf.svg",
     "static/media/omron.svg": "/Altosentosa-Web/static/media/omron.482bcca5ed76743833843f909659ed37.svg",
     "static/media/siemens-logo-svgrepo-com.svg": "/Altosentosa-Web/static/media/siemens-logo-svgrepo-com.ebdd8668f88b5028c170fa1d999dacd1.svg",
@@ -31,17 +34,18 @@
     "static/media/abb-1.svg": "/Altosentosa-Web/static/media/abb-1.e3cadec7a6494f556b302d63a9c49714.svg",
     "static/media/home.svg": "/Altosentosa-Web/static/media/home.eae844053b33158171b0b3d3e23667d5.svg",
     "static/media/phone.svg": "/Altosentosa-Web/static/media/phone.053c6f7f2494eb01b926b000d5c11f95.svg",
+    "static/media/fastdelivery.svg": "/Altosentosa-Web/static/media/fastdelivery.6295d5dd527203cb527b62accbce2a51.svg",
     "index.html": "/Altosentosa-Web/index.html",
     "static/media/maps.svg": "/Altosentosa-Web/static/media/maps.894f86b9a246ec945073864c36b7a047.svg",
     "static/media/box.svg": "/Altosentosa-Web/static/media/box.a5e1af9bbe2b538618924896fc01a90a.svg",
     "static/media/clock.svg": "/Altosentosa-Web/static/media/clock.fb6a18c5f2e25b46806bf2222c6d0bba.svg",
     "static/media/glove.svg": "/Altosentosa-Web/static/media/glove.56c7b40a45c173464862f982ddad99fd.svg",
     "static/media/find.svg": "/Altosentosa-Web/static/media/find.e4300fc74a44e502d79416a9536685e1.svg",
-    "main.7036674b.css.map": "/Altosentosa-Web/static/css/main.7036674b.css.map",
-    "main.f71cde46.js.map": "/Altosentosa-Web/static/js/main.f71cde46.js.map"
+    "main.4a1dad4d.css.map": "/Altosentosa-Web/static/css/main.4a1dad4d.css.map",
+    "main.70dd1c58.js.map": "/Altosentosa-Web/static/js/main.70dd1c58.js.map"
   },
   "entrypoints": [
-    "static/css/main.7036674b.css",
-    "static/js/main.f71cde46.js"
+    "static/css/main.4a1dad4d.css",
+    "static/js/main.70dd1c58.js"
   ]
 }
